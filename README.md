@@ -7,4 +7,4 @@ Shown here is the VLAN configuration from the router as well as the dhcp pools f
 
 Shown here is a successful message from a computer in one VLAN to a computer in another VLAN
 
-insert gif here
+<img src = "message.gif">
